@@ -112,26 +112,5 @@ Example Output:
 
 ---
 
-## 📸 Demo Screenshots (Optional)
-_Add screenshots of your UI or Swagger Docs here._
 
----
 
-## 🧠 Learning Outcomes
-
-- Integrated **FastAPI with React frontend**
-- Designed REST APIs and consumed them via **auto-generated SDK**
-- Implemented **CORS middleware** for frontend-backend communication
-- Practiced **Git workflow** and project structure organization
-
----
-
-## 💼 Author
-
-**👨‍💻 Naveen Karthick T K**  
-B.E. Computer Science and Engineering | Sri Sai Ram Institute of Technology  
-🔗 [LinkedIn](https://www.linkedin.com/) 🔗 [GitHub](https://github.com/Naveen-Karthick22)
-
----
-
-⭐ _If you like this project, don’t forget to star the repository!_
